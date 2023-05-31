@@ -11,3 +11,5 @@ daha iyi bir sistemin geliştirilmesi adına yaptım bu projeyi.
    bu tablolar muhtemelen login işlemleri için kullanıcı adı ve şifrelerin tutulduğu tablo
    otelde konaklayanların bilgilerinin buluduğu tablo
    temel tablolar bunlardan oluşacaktır.
+
+Not: bu proje geçen yıl şahsım tarafından 1 aylık sürede yapılmış ve bu senede tekrardan güncellenmiş bir projedir
